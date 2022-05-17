@@ -1,0 +1,15 @@
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\bin\Debug\net6.0\Exercicio03.exe
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\bin\Debug\net6.0\Exercicio03.deps.json
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\bin\Debug\net6.0\Exercicio03.runtimeconfig.json
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\bin\Debug\net6.0\Exercicio03.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\bin\Debug\net6.0\Exercicio03.pdb
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.AssemblyReference.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfoInputs.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.AssemblyInfo.cs
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.csproj.CoreCompileInputs.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\refint\Exercicio03.dll
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.pdb
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\Exercicio03.genruntimeconfig.cache
+C:\projects\classPI\Exercicios_Operadores_Aritmeticos-Logicos\Exercicio03\obj\Debug\net6.0\ref\Exercicio03.dll

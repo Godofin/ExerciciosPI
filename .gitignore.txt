@@ -1,0 +1,6 @@
+.sln
+.assets
+.cache
+.dgspec
+/bin
+/obj
